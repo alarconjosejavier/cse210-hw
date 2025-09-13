@@ -8,6 +8,7 @@ public class Entry
 
     public void Display()
     {
-
+        Console.WriteLine($"Date: {_date} - Prompt: {_promptMessage}");
+        Console.WriteLine(_entryMessage);
     }
 }
