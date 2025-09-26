@@ -44,7 +44,10 @@ class Program
         // printing results
         Console.WriteLine($"{label1}{shipping1} \n{price1}");
 
-        // printing results
+        // printing a space for the second order
+        Console.WriteLine();
+        
+        // printing results for second order
         Console.WriteLine($"{label2}{shipping2} \n{price2}");
 
 
