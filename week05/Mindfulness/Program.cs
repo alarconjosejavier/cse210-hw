@@ -34,6 +34,7 @@ class Program
                 listing.Run();
             }
 
+            // I don't know if count as a extra show creativity but I added an else to force the user enter a correct number of the list
             else
             {
                 Console.Clear();
